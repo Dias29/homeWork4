@@ -1,1 +1,7 @@
 d:\users10\asus\documents\visual studio 2015\Projects\HomeWork_Train\HomeWork_Train\bin\Debug\HomeWork_Train.exe.config
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork_Train\HomeWork_Train\bin\Debug\HomeWork_Train.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork_Train\HomeWork_Train\bin\Debug\HomeWork_Train.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork_Train\HomeWork_Train\obj\Debug\HomeWork_Train.csprojResolveAssemblyReference.cache
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork_Train\HomeWork_Train\obj\Debug\HomeWork_Train.csproj.CoreCompileInputs.cache
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork_Train\HomeWork_Train\obj\Debug\HomeWork_Train.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\HomeWork_Train\HomeWork_Train\obj\Debug\HomeWork_Train.pdb

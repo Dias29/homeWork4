@@ -3,14 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace HomeWork_Train
 {
-    class Train
+    public class Train
     {
-        private string typeOfTrain;
-        private int countOfWagon;       //Вагон на англ так и пишется 
-        private string typeOfLokomotive;
+        private string typeOfTrain;         //Пассажирский, грузовой
+        private static int countOfWagon = 0;
+        private static Lokomotive lokomotive;
+
+       
 
     }
 }

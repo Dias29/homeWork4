@@ -4,12 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace HomeWork_Train
 {
+   
     class Program
     {
         static void Main(string[] args)
         {
+            Train[] train = new Train[5];
         }
+
+        
     }
 }
